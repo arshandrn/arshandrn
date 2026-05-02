@@ -46,7 +46,7 @@ Simulated a complete cyberattack and detected every stage.
 | SMB Brute Force | Wazuh + Splunk | 51 Event ID 4625 failures logged |
 | Payload Drop (EICAR) | Wazuh FIM | Flagged instantly via Syscheck |
 | Meterpreter C2 Port 4444 | Custom Snort Rule | Critical alert triggered |
-| Post-Exploitation | Sysmon Event ID 1 | 125 events — full process tree |
+| Post-Exploitation | Sysmon Event ID 1 | 125 events - full process tree |
 
 `Splunk` `Wazuh` `Snort` `Cisco Talos` `Metasploit` `Sysmon` `Nessus` `Kali Linux`
 
@@ -131,7 +131,7 @@ full lifecycle from alert triage to incident documentation.
 - Reconnaissance using Shodan, Amass, Nmap, Wireshark, Dirb
 - Cyber Kill Chain + MITRE ATT&CK attacker behavior mapping
 - Full CTF: exploited Pluck CMS via **CVE-2023-50564** -> RCE
-  → DB access -> privilege escalation to root
+  -> DB access -> privilege escalation to root
 
 ---
 
@@ -141,7 +141,7 @@ full lifecycle from alert triage to incident documentation.
 
 | Category | Details |
 |---|---|
-| SIEM | Splunk Enterprise — search, dashboards, correlation |
+| SIEM | Splunk Enterprise - search, dashboards, correlation |
 | EDR | Wazuh - FIM, agent deployment, Windows log forwarding |
 | IDS/NIDS | Snort - custom rule writing, Talos feed integration |
 | Vulnerability Assessment | Nessus Essentials - CVE mapping, remediation |
@@ -176,7 +176,7 @@ full lifecycle from alert triage to incident documentation.
 | Fortinet Certified Associate in Cybersecurity | Fortinet | 2025 |
 | Blue Team Junior Analyst Pathway | Security Blue Team | 2025 |
 | Cyber Job Simulation | Deloitte (Forage) | 2025 |
-| Privacy & Security in Online Social Media — ELITE | NPTEL | 2025 |
+| Privacy & Security in Online Social Media - ELITE | NPTEL | 2025 |
 | Networking + Linux + Cybersecurity | Cisco | 2024-2025 |
 
 ---
@@ -184,5 +184,7 @@ full lifecycle from alert triage to incident documentation.
 ## Education
 
 **B.E. Electronics & Communication Engineering (Honors)**
+
 Hindusthan College of Engineering and Technology
+
 Coimbatore, Tamil Nadu | 2022 – 2026 | CGPA: 7.9 (till 7th sem)
