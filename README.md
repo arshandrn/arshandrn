@@ -136,6 +136,8 @@ full lifecycle from alert triage to incident documentation.
   -> DB access -> privilege escalation to root
   
 **[View Report](https://1drv.ms/f/c/ca84ccba0e93da2d/IgDk64FNTJmSQZzCBcWO2zhIAatZRBxpglM4Yf3p881DvXM?e=wi5kVn)**
+&nbsp;
+
 ---
 
 ## Skills
