@@ -89,10 +89,11 @@ logs to Splunk Enterprise via Universal Forwarder.
 
 ---
 
-### 🔵 Secure Enterprise Network Infrastructure *(Secondary)*
+### 🔵 Secure Enterprise Network Infrastructure
 > Supporting skill: Understanding what SOC analysts are defending
 
 **[View Repo](https://github.com/arshandrn/enterprise-network-infrastructure)**
+**[View Report](https://arshand-portfolio.web.app/assets/network.pdf)**
 
 Designed a multi-departmental enterprise network with security
 controls - giving real infrastructure context to SOC work.
