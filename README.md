@@ -134,6 +134,7 @@ full lifecycle from alert triage to incident documentation.
 - Cyber Kill Chain + MITRE ATT&CK attacker behavior mapping
 - Full CTF: exploited Pluck CMS via **CVE-2023-50564** -> RCE
   -> DB access -> privilege escalation to root
+  
 **[View Report]([https://arshand-portfolio.web.app/assets/network.pdf](https://1drv.ms/f/c/ca84ccba0e93da2d/IgDk64FNTJmSQZzCBcWO2zhIAatZRBxpglM4Yf3p881DvXM?e=wi5kVn))**
 ---
 
