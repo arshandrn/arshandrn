@@ -1,4 +1,4 @@
-# Arshand R N - SOC Analyst
+# Hi, I'm Arshand R N 👋
 
 **Self-trained SOC Analyst | B.E. ECE Graduate | Blue Team**
 
