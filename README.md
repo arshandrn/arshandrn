@@ -1,6 +1,7 @@
-# Arshand R N — SOC Analyst
+# Arshand R N - SOC Analyst
 
 **Self-trained SOC Analyst | B.E. ECE Graduate | Blue Team**
+
 📍 Coimbatore, Tamil Nadu, India
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arshand--portfolio.web.app-blue)](https://arshand-portfolio.web.app)
@@ -12,7 +13,7 @@
 ## About Me
 
 Self-trained SOC Analyst with hands-on experience building 
-real detection pipelines — not just theoretical knowledge.
+real detection pipelines - not just theoretical knowledge.
 
 - Engineered a full-stack **Splunk + Wazuh + Snort** SOC lab 
   that caught a simulated end-to-end cyberattack including C2
@@ -22,14 +23,14 @@ real detection pipelines — not just theoretical knowledge.
   including attacker IP, session commands, and session duration
 - Completed **20+ SOC alert investigations** with MITRE ATT&CK 
   mapping and incident reporting on LetsDefend
-- Secondary strength in enterprise network design — VLAN, 
+- Secondary strength in enterprise network design - VLAN, 
   HSRP, Zero-Trust ACL, NAT/PAT in Cisco Packet Tracer
 
 ---
 
 ## Projects
 
-### 🔴 Comprehensive SOC Simulation — Splunk + Wazuh + Snort
+### 🔴 Comprehensive SOC Simulation - Splunk + Wazuh + Snort
 > Primary focus: Full-chain attack detection across SIEM + EDR + NIDS
 
 **[View Repo](https://github.com/arshandrn/soc-splunk-wazuh-snort)**
@@ -70,7 +71,7 @@ CVEs, wrote custom Snort rules per finding, validated with attacks.
 
 ---
 
-### 🟡 Honeypot Attack Detection — Cowrie + Splunk
+### 🟡 Honeypot Attack Detection - Cowrie + Splunk
 > Primary focus: Attacker behavior capture and SIEM integration
 
 **[View Repo](https://github.com/arshandrn/honeypot-cowrie-splunk)**
@@ -82,7 +83,7 @@ logs to Splunk Enterprise via Universal Forwarder.
 
 - Captured **12 structured events** including attacker source IP,
   session commands, and a **224.6-second SSH session**
-- Validated full SOC workflow: Nmap recon → SSH intrusion → SIEM
+- Validated full SOC workflow: Nmap recon -> SSH intrusion -> SIEM
 
 `Cowrie` `Splunk` `Splunk Universal Forwarder` `Nmap` `Ubuntu` `Kali Linux`
 
@@ -94,7 +95,7 @@ logs to Splunk Enterprise via Universal Forwarder.
 **[View Repo](https://github.com/arshandrn/enterprise-network-infrastructure)**
 
 Designed a multi-departmental enterprise network with security
-controls — giving real infrastructure context to SOC work.
+controls - giving real infrastructure context to SOC work.
 
 - 5 VLANs (HR, Finance, IT, Guest, IoT) with inter-VLAN routing
 - HSRP failover in under 3 seconds
@@ -114,7 +115,7 @@ full lifecycle from alert triage to incident documentation.
 **Each investigation includes:**
 - Alert triage and false positive reduction
 - Log and packet analysis
-- Sandbox correlation — ANY.RUN, Hybrid Analysis, VirusTotal
+- Sandbox correlation - ANY.RUN, Hybrid Analysis, VirusTotal
 - MITRE ATT&CK technique mapping
 - Remediation playbook and knowledge-base entry
 
@@ -124,33 +125,33 @@ full lifecycle from alert triage to incident documentation.
 
 ## Experience
 
-### Cybersecurity Intern — CyberWarLab *(Dec 2025 – Jan 2026)*
+### Cybersecurity Intern - CyberWarLab *(Dec 2025 - Jan 2026)*
 
-- OWASP Top 10 exploitation via DVWA — SQLi, XSS, Command Injection
+- OWASP Top 10 exploitation via DVWA - SQLi, XSS, Command Injection
 - Reconnaissance using Shodan, Amass, Nmap, Wireshark, Dirb
 - Cyber Kill Chain + MITRE ATT&CK attacker behavior mapping
-- Full CTF: exploited Pluck CMS via **CVE-2023-50564** → RCE
-  → DB access → privilege escalation to root
+- Full CTF: exploited Pluck CMS via **CVE-2023-50564** -> RCE
+  → DB access -> privilege escalation to root
 
 ---
 
 ## Skills
 
-### Primary — Cybersecurity & SOC
+### Cybersecurity & SOC
 
 | Category | Details |
 |---|---|
 | SIEM | Splunk Enterprise — search, dashboards, correlation |
-| EDR | Wazuh — FIM, agent deployment, Windows log forwarding |
-| IDS/NIDS | Snort — custom rule writing, Talos feed integration |
-| Vulnerability Assessment | Nessus Essentials — CVE mapping, remediation |
+| EDR | Wazuh - FIM, agent deployment, Windows log forwarding |
+| IDS/NIDS | Snort - custom rule writing, Talos feed integration |
+| Vulnerability Assessment | Nessus Essentials - CVE mapping, remediation |
 | Threat Intelligence | Cisco Talos, OSINT, VirusTotal, AbuseIPDB |
 | Attack Simulation | Kali Linux, Metasploit, msfvenom, Hydra, Nmap |
 | Endpoint Forensics | Sysmon, Windows Event Logs, process tree analysis |
 | Frameworks | MITRE ATT&CK, Cyber Kill Chain |
 | Security Skills | Alert triage, IOC analysis, IDS/IPS, EDR/XDR, log analysis |
 
-### Secondary — Networking
+### Networking
 
 | Category | Details |
 |---|---|
@@ -184,4 +185,4 @@ full lifecycle from alert triage to incident documentation.
 
 **B.E. Electronics & Communication Engineering (Honors)**
 Hindusthan College of Engineering and Technology
-Coimbatore, Tamil Nadu | 2022 – 2026 | CGPA: 7.9
+Coimbatore, Tamil Nadu | 2022 – 2026 | CGPA: 7.9 (till 7th sem)
