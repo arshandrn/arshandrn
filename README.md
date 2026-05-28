@@ -19,6 +19,7 @@ real detection pipelines - not just theoretical knowledge.
   that caught a simulated end-to-end cyberattack including C2
 - Wrote **5 custom Snort rules** mapped to real CVEs with 
   **100% detection rate** across all simulated attack types
+- Engineered a hybrid-cloud SOC automation pipeline using Splunk SOAR, reducing Tier-1 incident triage time from minutes to seconds
 - Deployed Cowrie honeypot capturing **12 structured events** 
   including attacker IP, session commands, and session duration
 - Completed **20+ SOC alert investigations** with MITRE ATT&CK 
@@ -51,7 +52,23 @@ Simulated a complete cyberattack and detected every stage.
 `Splunk` `Wazuh` `Snort` `Cisco Talos` `Metasploit` `Sysmon` `Nessus` `Kali Linux`
 
 ---
+### 🟣 Automated Threat Detection and Incident Triage using Splunk SOAR
+> Primary focus: Hybrid-cloud SOC automation, zero-touch triage, and DFIR enrichment
 
+**[View Repo](https://github.com/arshandrn/soc-automation-pipeline)**
+&nbsp;|&nbsp;
+**[View Report](https://arshand-portfolio.web.app/assets/ir.pdf)**
+
+Engineered a hybrid-cloud pipeline bridging on-premise endpoint detection with cloud-hosted orchestration via ngrok reverse tunnels.
+
+- Built an automated Splunk SOAR playbook with conditional logic to ingest JSON telemetry, deduplicate alerts, and auto-provision analyst tickets
+- Integrated **TheHive** (Case Management) and **Cortex** (DFIR) for automated active observable analysis
+- Positively identified simulated WannaCry ransomware hashes automatically via VirusTotal APIs
+- Exported confirmed IOCs directly to **MISP**, mapped automatically to MITRE ATT&CK Galaxy tags
+
+`AWS` `Splunk SOAR` `Wazuh` `TheHive` `Cortex` `MISP` `Sysmon` `Atomic Red Team` `ngrok`
+
+---
 ### 🟠 Simulated SOC — Nessus + Snort IDS
 > Primary focus: CVE-driven detection engineering
 
@@ -146,15 +163,15 @@ full lifecycle from alert triage to incident documentation.
 
 | Category | Details |
 |---|---|
-| SIEM | Splunk Enterprise - search, dashboards, correlation |
-| EDR | Wazuh - FIM, agent deployment, Windows log forwarding |
+| SIEM & SOAR | Splunk Enterprise, Splunk SOAR, Wazuh - playbooks, correlation, FIM |
+| Incident Response | TheHive, Cortex - automated case management, active analyzers |
 | IDS/NIDS | Snort - custom rule writing, Talos feed integration |
 | Vulnerability Assessment | Nessus Essentials - CVE mapping, remediation |
-| Threat Intelligence | Cisco Talos, OSINT, VirusTotal, AbuseIPDB |
-| Attack Simulation | Kali Linux, Metasploit, msfvenom, Hydra, Nmap |
+| Threat Intelligence | MISP, Cisco Talos, OSINT, VirusTotal, AbuseIPDB |
+| Attack Simulation | Atomic Red Team, Kali Linux, Metasploit, msfvenom, Hydra |
 | Endpoint Forensics | Sysmon, Windows Event Logs, process tree analysis |
 | Frameworks | MITRE ATT&CK, Cyber Kill Chain |
-| Security Skills | Alert triage, IOC analysis, IDS/IPS, EDR/XDR, log analysis |
+| Security Skills | Playbook automation, Alert triage, IOC analysis, EDR/XDR, log analysis |
 
 ### Networking
 
