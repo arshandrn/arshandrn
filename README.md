@@ -37,6 +37,8 @@ real detection pipelines - not just theoretical knowledge.
 **[View Repo](https://github.com/arshandrn/soc-splunk-wazuh-snort)**
 &nbsp;|&nbsp;
 **[View Report](https://arshand-portfolio.web.app/assets/soc.pdf)**
+&nbsp;|&nbsp;
+**[View Video](https://1drv.ms/v/c/ca84ccba0e93da2d/IQC4Mx8ZIUJ8RKDjXU25kMtZAcymtKAA9NYmOMrqVvcbgHU?e=SlWkdg)**
 
 Architected a 3-VM SOC lab with a unified detection pipeline.
 Simulated a complete cyberattack and detected every stage.
@@ -71,12 +73,14 @@ Engineered a hybrid-cloud pipeline bridging on-premise endpoint detection with c
 `AWS` `Splunk SOAR` `Wazuh` `TheHive` `Cortex` `MISP` `Sysmon` `Atomic Red Team` `ngrok`
 
 ---
-### 🟠 Simulated SOC — Nessus + Snort IDS
+### 🟠 Simulated SOC - Nessus + Snort IDS
 > Primary focus: CVE-driven detection engineering
 
 **[View Repo](https://github.com/arshandrn/simulated-soc-nessus-snort)**
 &nbsp;|&nbsp;
 **[View Report](https://arshand-portfolio.web.app/assets/IDS.pdf)**
+&nbsp;|&nbsp;
+**[View Report](https://1drv.ms/v/c/ca84ccba0e93da2d/IQDWMXo22FkYSLtxkGzn3VOdASKGmw-Def_yVnvyTtVtjJY?e=QbH1Q8)**
 
 Scanned a deliberately vulnerable Windows VM, discovered real
 CVEs, wrote custom Snort rules per finding, validated with attacks.
@@ -114,6 +118,8 @@ logs to Splunk Enterprise via Universal Forwarder.
 **[View Repo](https://github.com/arshandrn/enterprise-network-infrastructure)**
 &nbsp;|&nbsp;
 **[View Report](https://arshand-portfolio.web.app/assets/network.pdf)**
+&nbsp;|&nbsp;
+**[View Video](https://1drv.ms/v/c/ca84ccba0e93da2d/IQAlBwVCO9sIT7KLPtLUsMttAaKrQELJoJlDd_sfB00EYK4?e=FHEBSz)**
 
 Designed a multi-departmental enterprise network with security
 controls - giving real infrastructure context to SOC work.
