@@ -55,9 +55,11 @@ Simulated a complete cyberattack and detected every stage.
 ### 🟣 Automated Threat Detection and Incident Triage using Splunk SOAR
 > Primary focus: Hybrid-cloud SOC automation, zero-touch triage, and DFIR enrichment
 
-**[View Repo](https://github.com/arshandrn/soc-automation-pipeline)**
+**[View Repo](https://github.com/arshandrn/automated-incident-triage)**
 &nbsp;|&nbsp;
-**[View Report](https://arshand-portfolio.web.app/assets/ir.pdf)**
+**[View Report](https://arshand-portfolio.web.app/assets/Incident_Triage.pdf)**
+&nbsp;|&nbsp;
+**[View Video](https://1drv.ms/v/c/ca84ccba0e93da2d/IQCOaduqe4PkSbiTWT0drfRfAS1BpGq1HGq-RDu2ThfD-TA?e=G4TGam)**
 
 Engineered a hybrid-cloud pipeline bridging on-premise endpoint detection with cloud-hosted orchestration via ngrok reverse tunnels.
 
