@@ -93,7 +93,25 @@ CVEs, wrote custom Snort rules per finding, validated with attacks.
 `Nessus` `Snort` `Kali Linux` `Hydra` `CVE-2017-15715` `CVE-2019-11043` `CVE-2012-2122`
 
 ---
+### ⚪ Cloud-Native SOC - AWS EventBridge + Lambda SOAR + Claude MCP
+> Primary focus: Automated cloud detection & AI-assisted incident triage
 
+**[View Repo](https://github.com/arshandrn/aws-telemetry-ai-soc)**
+&nbsp;|&nbsp;
+**[View Report](https://arshand-portfolio.web.app/assets/AWS.pdf)**
+
+Simulated a 6-stage cloud intrusion across a segmented VPC, built a custom
+EventBridge-to-Lambda SOAR pipeline for real-time threat neutralization, and
+integrated Claude via MCP as an automated Tier-2 triage analyst.
+
+- Engineered **CloudTrail + VPC Flow Log** telemetry pipeline across public/private subnets
+- Built **custom Lambda (boto3)** remediation that dynamically injects DENY rules into the VPC NACL
+- Mapped all 6 attack stages to **MITRE ATT&CK** techniques (T1530, T1078, T1046, T1098, T1580, T1021)
+- Integrated **Claude MCP** for automated alarm correlation and executive incident reporting
+
+`AWS Services` `AWS CloudTrail` `VPC Flow Logs` `EventBridge` `Lambda` `AWS Config` `CloudWatch` `MCP` 
+
+---
 ### 🟡 Honeypot Attack Detection - Cowrie + Splunk
 > Primary focus: Attacker behavior capture and SIEM integration
 
