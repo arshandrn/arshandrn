@@ -212,11 +212,11 @@ full lifecycle from alert triage to incident documentation.
 
 | Category | Details |
 | :--- | :--- |
-| **Telemetry & Logging** | AWS CloudTrail (Data/Mgmt Events), VPC Flow Logs |
-| **Detection & Posture (CSPM)** | AWS Config, Amazon CloudWatch (Alarms, Metric Filters) |
-| **Serverless Orchestration** | AWS Lambda (Python/boto3), Amazon EventBridge, Amazon SNS |
-| **Cloud Infrastructure** | AWS VPC, EC2, S3, Route53, ELB, IAM |
-| **AI Integration** | Claude Model Context Protocol (MCP) Server |
+| Telemetry & Logging | AWS CloudTrail (Data/Mgmt Events), VPC Flow Logs |
+| Detection & Posture (CSPM) | AWS Config, Amazon CloudWatch (Alarms, Metric Filters) |
+| Serverless Orchestration | AWS Lambda (Python/boto3), Amazon EventBridge, Amazon SNS |
+| Cloud Infrastructure | AWS VPC, EC2, S3, Route53, ELB, IAM |
+| AI Integration | Claude Model Context Protocol (MCP) Server |
 
 ### Other
 `PowerShell` `Bash` `AWS (EC2, S3, Route53, ELB)` `Azure` `GCP`
