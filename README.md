@@ -208,6 +208,16 @@ full lifecycle from alert triage to incident documentation.
 | Tools | Cisco Packet Tracer, Wireshark, tcpdump |
 | Concepts | Subnetting, inter-VLAN routing, HSRP, Zero-Trust |
 
+### Cloud Security & Automation
+
+| Category | Details |
+| :--- | :--- |
+| **Telemetry & Logging** | AWS CloudTrail (Data/Mgmt Events), VPC Flow Logs |
+| **Detection & Posture (CSPM)** | AWS Config, Amazon CloudWatch (Alarms, Metric Filters) |
+| **Serverless Orchestration** | AWS Lambda (Python/boto3), Amazon EventBridge, Amazon SNS |
+| **Cloud Infrastructure** | AWS VPC, EC2, S3, Route53, ELB, IAM |
+| **AI Integration** | Claude Model Context Protocol (MCP) Server |
+
 ### Other
 `PowerShell` `Bash` `AWS (EC2, S3, Route53, ELB)` `Azure` `GCP`
 `MySQL` `MongoDB` `Windows` `Linux` `Kali Purple`
@@ -220,6 +230,7 @@ full lifecycle from alert triage to incident documentation.
 |---|---|---|
 | Cybersecurity Defense Analyst | Cisco | 2026 |
 | 17 Courses Completed | Splunk | 2026 |
+| AWS Cloud Quest: Cloud Practitioner | AWS | 2026 |
 | SOC Analyst Learning Path | LetsDefend | 2025 |
 | Fortinet Certified Associate in Cybersecurity | Fortinet | 2025 |
 | Blue Team Junior Analyst Pathway | Security Blue Team | 2025 |
